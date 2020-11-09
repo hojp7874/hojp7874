@@ -1,8 +1,8 @@
 # Welcome to my Git
-## This is my Blog
+### This is my Blog
 [Blog link](https://velog.io/@hojp7874)
 
-## 🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - Tensorflow
 - Python
 - Machine Learning
