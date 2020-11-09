@@ -1,3 +1,6 @@
+## This is my Blog
+[Blog link](https://velog.io/@hojp7874)
+
 ### Hi there 👋
 🌱 I’m currently learning ...
 - Tensorflow
