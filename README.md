@@ -1,5 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... tensorflow
+🌱 I’m currently learning ...
+- Tensorflow
+- Python
+- Machine Learning
+- Django
+- java
+- Vue.js
 
 <!--
 **hojp7874/hojp7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
