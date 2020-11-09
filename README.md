@@ -1,4 +1,4 @@
-### Welcome to my Git
+# Welcome to my Git
 ## This is my Blog
 [Blog link](https://velog.io/@hojp7874)
 
