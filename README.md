@@ -1,6 +1,6 @@
 # Welcome to my Git
 ### ⚡ This is my Blog
-[Blog link](https://velog.io/@hojp7874)
+[Blog link](http://hojp7874.github.io/)
 
 ### 🌱 I’m currently learning ...
 - Tensorflow
