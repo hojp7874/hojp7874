@@ -3,12 +3,18 @@
 [Blog link](http://hojp7874.github.io/)
 
 ### 🌱 I’m currently learning ...
-- Tensorflow
+#### Web
 - Python
-- Machine Learning
 - Django
-- java
-- Vue.js
+- Vus.js
+- Bootstrap
+
+#### Collaboration
+- Github
+- JIRA
+- slack
+- Notion
+
 
 <!--
 **hojp7874/hojp7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
