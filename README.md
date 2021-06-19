@@ -8,6 +8,7 @@
 - Django
 - Vus.js
 - Bootstrap
+- MySQL
 
 #### Collaboration
 - Github
