@@ -13,8 +13,6 @@
 #### Collaboration
 - Github
 - JIRA
-- slack
-- Notion
 
 
 <!--
