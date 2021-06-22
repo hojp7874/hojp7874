@@ -1,6 +1,6 @@
 # Welcome to my Git
 ### ⚡ This is my Blog
-[Blog link](http://hojp7874.github.io/)
+[Blog link](https://jinpyo-hong.tistory.com/)
 
 ### 🌱 I’m currently learning ...
 #### Web
