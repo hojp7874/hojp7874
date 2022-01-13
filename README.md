@@ -4,7 +4,7 @@
 #### Web
 - Python
 - Django
-- Vus Cli
+- Vue Cli
 - MySQL
 
 #### Collaboration
