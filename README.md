@@ -1,6 +1,7 @@
 # Welcome to my Git
+blog: [https://hojp7874.github.io/](https://hojp7874.github.io/)
 
-### 🌱 I’m currently learning ...
+### 🌱 My tech stack
 #### Back-end
 - Python
 - Django
@@ -24,7 +25,7 @@
 - ~Python Design Patterns (제나디 즐로빈)~
 - 파이썬 코딩의 기술 (슬라킨, 브렛)
 - ~구글 클라우드 플랫폼 입문 (아사 시호, 나카이 에츠지)~
-- 머신러닝, 깁러닝 실전개발 입문 (쿠지라 히코우즈쿠에)
+- 머신러닝, 딥러닝 실전개발 입문 (쿠지라 히코우즈쿠에)
 
 <!--
 **hojp7874/hojp7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
