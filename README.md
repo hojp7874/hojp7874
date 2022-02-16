@@ -4,6 +4,7 @@ blog: [https://hojp7874.github.io/](https://hojp7874.github.io/)
 ### 🌱 My tech stack
 #### Back-end
 - Java8
+- Spring
 - Python3
 - Django
 - Vue Cli
@@ -16,6 +17,7 @@ blog: [https://hojp7874.github.io/](https://hojp7874.github.io/)
 #### 읽고 싶은 책
 - 모던 자바 인 액션 (라울-게이브리얼 우르마, 마리오 푸스코, 앨런 마이크로프트)
 - 토비의 스프링 (이일민)
+- 객체지향의 사실과 오해 (조영호)
 - 테스트 주도 개발 (켄트백)
 - 더 괜찮은 개발자가 되기 위한 프로젝트 더보기 (이세민, 김남준)
 - 마이크로 서비스 아키텍처 (우메쉬 램 샤르마)
@@ -28,6 +30,7 @@ blog: [https://hojp7874.github.io/](https://hojp7874.github.io/)
 - ~Python Design Patterns (제나디 즐로빈)~
 - 파이썬 코딩의 기술 (슬라킨, 브렛)
 - ~구글 클라우드 플랫폼 입문 (아사 시호, 나카이 에츠지)~
+- 이것이 자바다 (신용권)
 
 <!--
 **hojp7874/hojp7874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
