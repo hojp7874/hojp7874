@@ -1,6 +1,5 @@
 # Welcome to my Git
 blog: [https://hojp7874.github.io/](https://hojp7874.github.io/)
-notion: [https://www.notion.so/Programming-Study](https://www.notion.so/Programming-Study-9b7a4daeadc44d988615b5348c264642)
 
 ### 🌱 My tech stack
 #### Back-end
